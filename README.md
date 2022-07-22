@@ -1,3 +1,3 @@
-A random password is generated of user specification 
+A random password is generated based on user specification 
 
 Uses OOP
